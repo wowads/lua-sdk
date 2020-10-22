@@ -19,3 +19,6 @@
 [submodule "LibStub"]
 	path = LibStub
 	url = git@github.com:wowads/LibStub.git
+[submodule "LibDBIcon-1.0"]
+	path = LibDBIcon-1.0
+	url = git@github.com:wowads/LibDBIcon-1.0.git
