@@ -1,3 +1,6 @@
 [submodule "wow-ui-source"]
 	path = wow-ui-source
 	url = git@github.com:Gethe/wow-ui-source.git
+[submodule "IntelliJ-IDEA-Lua-IDE-WoW-API"]
+	path = IntelliJ-IDEA-Lua-IDE-WoW-API
+	url = git@github.com:Ellypse/IntelliJ-IDEA-Lua-IDE-WoW-API.git
