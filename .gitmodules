@@ -10,3 +10,6 @@
 [submodule "BlizzardInterfaceResources"]
 	path = BlizzardInterfaceResources
 	url = git@github.com:Ketho/BlizzardInterfaceResources.git
+[submodule "libqtip-1-0"]
+	path = libqtip-1-0
+	url = https://repos.wowace.com/wow/libqtip-1-0
