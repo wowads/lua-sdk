@@ -13,3 +13,6 @@
 [submodule "libqtip-1-0"]
 	path = libqtip-1-0
 	url = https://repos.wowace.com/wow/libqtip-1-0
+[submodule "Ace3"]
+	path = Ace3
+	url = git@github.com:wowace-clone/Ace3.git
