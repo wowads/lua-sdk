@@ -7,3 +7,6 @@
 [submodule "HandyNotes"]
 	path = HandyNotes
 	url = git@github.com:Nevcairiel/HandyNotes.git
+[submodule "BlizzardInterfaceResources"]
+	path = BlizzardInterfaceResources
+	url = git@github.com:Ketho/BlizzardInterfaceResources.git
