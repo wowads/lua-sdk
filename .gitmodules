@@ -16,3 +16,6 @@
 [submodule "Ace3"]
 	path = Ace3
 	url = git@github.com:wowace-clone/Ace3.git
+[submodule "LibStub"]
+	path = LibStub
+	url = git@github.com:wowads/LibStub.git
