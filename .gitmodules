@@ -4,3 +4,6 @@
 [submodule "IntelliJ-IDEA-Lua-IDE-WoW-API"]
 	path = IntelliJ-IDEA-Lua-IDE-WoW-API
 	url = git@github.com:Ellypse/IntelliJ-IDEA-Lua-IDE-WoW-API.git
+[submodule "HandyNotes"]
+	path = HandyNotes
+	url = git@github.com:Nevcairiel/HandyNotes.git
